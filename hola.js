@@ -1,1 +1,1 @@
-hola como
+console.log('dale jjejeje');
